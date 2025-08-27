@@ -1,5 +1,5 @@
 # mario-thomas---portfolio
-Name: Mario Thomas
+Mario Thomas
 Role: Data Analyst (Information Technology / Business Analytics)
 About Me:
 
